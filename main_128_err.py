@@ -368,5 +368,4 @@ plt.legend()
 plt.xlabel('T')
 plt.ylabel('Success Rate')
 plt.show()
-
 print()
